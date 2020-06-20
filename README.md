@@ -77,4 +77,4 @@ To start and run the local development server,
 
 4. Navigate to Home page [http://localhost:5000](http://localhost:5000)
 
-![Screenshot](homepage.png)
+![Alt text](static/img/homepage.png?raw=true "Fyyur Home Page")
